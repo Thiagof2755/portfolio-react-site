@@ -1,7 +1,7 @@
 // App.js
 import React, { useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter as BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
 import ParallaxBackground from './components/ParallaxBackground';
 import Navbar from './components/Navbar/index';
@@ -32,7 +32,6 @@ function App() {
 
   return (
     <div>
-      {/* Adicione a propriedade basename aqui */}
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route
@@ -60,8 +59,7 @@ function App() {
       <ParallaxBackground />
     </div>
   );
-}
-
+          }
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
