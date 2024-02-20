@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.07933f66.css",
-    "main.js": "./static/js/main.7a6ab31f.js",
+    "main.js": "./static/js/main.7110ad1b.js",
     "static/media/DevCine.png": "./static/media/DevCine.e300961a26bf4dbbfb30.png",
     "static/media/Face.png": "./static/media/Face.1a33f0058b6d4736381b.png",
     "static/media/QuizMaster.png": "./static/media/QuizMaster.965d73e2a2c41153d5eb.png",
     "static/media/Xperf.png": "./static/media/Xperf.42056c8939f2a45d5815.png",
+    "static/media/Githubfinder.png": "./static/media/Githubfinder.31ebcb5c100ad61ee01b.png",
     "static/media/QuizApi.png": "./static/media/QuizApi.3ebe6ff057f6e8cda325.png",
+    "static/media/EmBreve.png": "./static/media/EmBreve.bec8cd8f371106fecb8e.png",
     "index.html": "./index.html",
     "main.07933f66.css.map": "./static/css/main.07933f66.css.map",
-    "main.7a6ab31f.js.map": "./static/js/main.7a6ab31f.js.map"
+    "main.7110ad1b.js.map": "./static/js/main.7110ad1b.js.map"
   },
   "entrypoints": [
     "static/css/main.07933f66.css",
-    "static/js/main.7a6ab31f.js"
+    "static/js/main.7110ad1b.js"
   ]
 }
